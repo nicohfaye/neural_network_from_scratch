@@ -63,7 +63,7 @@ while True:
     o_pre = b_h_o + w_h_o @ h
     o = 1 / (1 + np.exp(-o_pre))
 
-    plt.title(f"It is probably a {o.argmax()} :)")
+    plt.title(f"It is probably a {o.argmax()}")
     plt.show()
 
 
