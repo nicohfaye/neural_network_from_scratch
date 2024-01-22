@@ -6,3 +6,4 @@ This projects consists of a simple ANN created in python to classify digits with
 
 - The model has been trained on a portion of the MNIST dataset
 
+![Alt text](/screenshot.png?raw=true "Machine Prediction")
